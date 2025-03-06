@@ -1,4 +1,6 @@
 # Powershell-Logon-Script
+
+Still a work in progress. Trying to fix the script some parts of it are not working.
 - Uninstall Onedrive
 
 - Set lockscreen to slideshow. No ads, no Microsoft rewards, no weather, just that blank blue screen. Just a clean look for business. Get fun facts, tips, tricks, and more on your lock screen needs to be unchecked and off. Lock screen status "choose an app to show detailed status on the lock screen needs to be set to "none" in the dropdown menu.
